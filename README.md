@@ -27,9 +27,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [GoPass Front](https://github.com/diegogdev/i003-gopass-front) | Sports ticketing interface. Recently adapted to European leagues ⚽ | React, TypeScript, TailwindCSS |
-| [Pawsome](https://github.com/diegogdev/pawsome) | A pet adoption site mockup with a clean and animal-friendly UI 🐾 | SvelteKit, TailwindCSS |
-| [Portfolio](https://github.com/diegogdev/MI-PORTFOLIO) *(in progress)* | My personal portfolio built from scratch 🛠️ | SvelteKit, TailwindCSS |
+| [GoPass Front](https://github.com/scannapieco/i003-gopass-front) | Sports ticketing interface. Recently adapted to European leagues ⚽ | React, TypeScript, TailwindCSS |
+| [Pawsome](https://github.com/scannapieco/i004-pawsome-front) | A pet adoption site mockup with a clean and animal-friendly UI 🐾 | SvelteKit, TailwindCSS |
+| [Portfolio](https://github.com/scannapieco/Porfolio) *(in progress)* | My personal portfolio built from scratch 🛠️ | SvelteKit, TailwindCSS |
 
 ---
 
